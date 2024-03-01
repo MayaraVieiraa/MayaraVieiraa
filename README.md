@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @MayaraVieiraa
+- 👀 I’m interested in learning new things :)
