@@ -10,22 +10,31 @@
 ### 🧰 Tech Toolbox 
 
 <p align="left">
-  Tecnologias que tenho trabalhado em projetos acadêmicos e pessoais:
+  Tecnologias em aprendizado:
 </p>
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,angular,java,python,flutter,git,github,mysql,vscode,figma" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,java,python,git,github,mysql,vscode,figma,powerbi" />
   </a>
 </p>
 
 ---
 
-### 🌟 Projetos Recentes
+### 🛠 Projetos em Desenvolvimento
 
-- [Análise de Dados de RH](link) - Dashboard com Python + Power BI
-- [Site Pessoal](link) - Portfólio com HTML/CSS/JS
-- [App de Tarefas](link) - Protótipo em Flutter
+- **GameMania**  
+  🎮 E-commerce de games (Curso FullStack SENAI)  
+  `HTML` `CSS` `JavaScript` `Java` `MySQL`  
+
+- **Portfólio Pessoal**  
+  🖥️ Website profissional  
+  `HTML` `CSS` `JavaScript`
+
+
+- **Dashboard de RH**  
+  📊 Análise de indicadores com Power BI  
+  `Power BI` `SQL` `Python`  
 
 ---
 
@@ -33,16 +42,13 @@
 
 <p align="left">
   <a href="mailto:m4y4r4vm@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/mayara-vieira-00259926b/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/MayaraVieiraa" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
 <p align="left">
-  <i>"A tecnologia move o mundo e eu quero fazer parte dessa revolução!"</i> 💜
+  <i>"Transformando linhas de código em soluções criativas!"</i> 💜
 </p>
